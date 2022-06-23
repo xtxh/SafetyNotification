@@ -1,0 +1,16 @@
+PODS:
+  - SafetyNotification (0.1.0)
+
+DEPENDENCIES:
+  - SafetyNotification (from `../`)
+
+EXTERNAL SOURCES:
+  SafetyNotification:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SafetyNotification: 8b770b942f1488a4e534933101825fb787fcd879
+
+PODFILE CHECKSUM: 928c4fe23fd12ad64d852bb72ebaa1b1d47c0c22
+
+COCOAPODS: 1.11.3

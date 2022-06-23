@@ -1,0 +1,6 @@
+framework module SafetyNotification {
+  umbrella header "SafetyNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}

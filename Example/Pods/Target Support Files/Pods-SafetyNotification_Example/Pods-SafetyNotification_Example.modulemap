@@ -1,0 +1,6 @@
+framework module Pods_SafetyNotification_Example {
+  umbrella header "Pods-SafetyNotification_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
